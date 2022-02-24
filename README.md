@@ -9,3 +9,4 @@ Then visualize that on a ST7789 LCD display.
 
 I mainly used Microchip Explorer16/32 bit development card for my projects. And i made lots of projects and project trials with 2 different cpu types (dspic33E - PIC24F) . Instead of writing same configuration codes for peripherals repetitively I activate related parts of codes through preprocessor directives.  
 
+
